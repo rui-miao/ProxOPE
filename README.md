@@ -1,6 +1,5 @@
 # Off-Policy Evaluation for Episodic Partially Observable Markov Decision Processes under Non-Parametric Models
 
-[Supp_proximal_reinforcement_learning.pdf](Supp_proximal_reinforcement_learning.pdf): Appendix of paper
 
 ## Requirements
 ```
